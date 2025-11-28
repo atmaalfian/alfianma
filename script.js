@@ -98,13 +98,13 @@ const portfolioData = [
         description: 'UNTAN Jadi Tuan Rumah FRI 2025, Prof Garuda Wiko Terpilih sebagai Ketua Forum Rektor Indonesia 2025–2026.',
         tools: 'Fujifilm 30-tx',
         images: [
-            'images/FORUM RECTOR/1.jpg',
-            'images/FORUM RECTOR/2.jpg',
-            'images/FORUM RECTOR/3.jpg',
-            'images/FORUM RECTOR/4.jpg',
-            'images/FORUM RECTOR/5.jpg',
-            'images/FORUM RECTOR/6.jpg',
-            'images/FORUM RECTOR/7.jpg'
+            'images/FORUM RECTOR/1.JPG',
+            'images/FORUM RECTOR/2.JPG',
+            'images/FORUM RECTOR/3.JPG',
+            'images/FORUM RECTOR/4.JPG',
+            'images/FORUM RECTOR/5.JPG',
+            'images/FORUM RECTOR/6.JPG',
+            'images/FORUM RECTOR/7.JPG'
             
         ]
     },
@@ -1168,3 +1168,4 @@ if (item.videos && item.videos.length > 0) {
     card.appendChild(video);
   });
 }
+
